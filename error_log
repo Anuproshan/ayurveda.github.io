@@ -1,0 +1,4 @@
+[12-Sep-2018 09:04:31 UTC] PHP Notice:  Undefined index: Firstname in /home/e7nuxu4job85/public_html/ayurveda/contactpage.php on line 2
+[12-Sep-2018 09:04:31 UTC] PHP Notice:  Undefined index: Email in /home/e7nuxu4job85/public_html/ayurveda/contactpage.php on line 3
+[12-Sep-2018 09:04:31 UTC] PHP Notice:  Undefined index: Phone in /home/e7nuxu4job85/public_html/ayurveda/contactpage.php on line 4
+[12-Sep-2018 09:04:31 UTC] PHP Notice:  Undefined index: Description in /home/e7nuxu4job85/public_html/ayurveda/contactpage.php on line 5
